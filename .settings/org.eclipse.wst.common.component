@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="007YIKorisnici">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.tld"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.process"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user.country"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.web.app"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.application"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.database.mysql"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.user.database.mysql"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/user-src.app.services"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/server.src-configuration"/>
+        <property name="context-root" value="007YIKorisnici"/>
+        <property name="java-output-path" value="/007YIKorisnici/build/classes"/>
+    </wb-module>
+</project-modules>

@@ -1,0 +1,7 @@
+{
+	"name":"serviceuser.web.no001",
+	"type":"SERVICE",
+	"service":"http://localhost:8085/003YIKorisniciODS",
+	"engine":"studiranje.ip.engine.controller.OldDBServiceDescriptor",
+	"database": "http://sql7355822:ujHkfPwHN7@sql7.freemysqlhosting.net:3306/sql7355822"
+}

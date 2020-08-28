@@ -1,0 +1,7 @@
+{
+	"name":"serviceuser.local.no001",
+	"type":"SERVICE",
+	"service":"http://localhost:8085/003YIKorisniciODS",
+	"engine":"studiranje.ip.engine.controller.OldDBServiceDescriptor",
+	"database": "http://root:root@localhost:3306/yi"
+}

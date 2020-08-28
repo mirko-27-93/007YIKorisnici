@@ -1,0 +1,5 @@
+{
+	"name":"databaseuser.yimp",
+	"type":"DATABASE",
+	"database": "http://root:root@localhost:3306/yimp"
+}
